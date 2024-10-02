@@ -13,8 +13,8 @@ GitHub: [piton22](https://github.com/piton22)
 - Треухов Борис  
 tg: [@highel](https://t.me/highel)  
 GitHub: [highel](https://github.com/highel)
-- Пискун Дарья
-tg: [@darrrrpi](https://t.me/darrrrpi)
+- Пискун Дарья  
+tg: [@darrrrpi](https://t.me/darrrrpi)  
 GitHub: [darrrpi](https://github.com/darrrpi)
 ## О чем проект
 
